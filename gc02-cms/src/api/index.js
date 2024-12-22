@@ -1,0 +1,1 @@
+export const base_url = `https://h8-phase2-gc.vercel.app`
